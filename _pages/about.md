@@ -23,6 +23,7 @@ Publications
 
 Honors and Awards
 ======
+* 2024.12 National Scholarship, Ministry of Education, 研究生国家奖学金  
 * 2022.06 Outstanding Undergraduate, Hunan Provincial Department of Education, 湖南省优秀毕业生  
 * 2022.06 Outstanding Undergraduate, Central South University, 中南大学优秀毕业生  
 * 2021.12 National Scholarship, Ministry of Education, 国家奖学金  
