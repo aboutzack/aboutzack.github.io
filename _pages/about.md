@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 
-I am a third-year master’s student and an incoming Ph.D. student at the [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/), advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/). I obtained my Bachelor's degree from Central South University. My research interests include Wireless Sensing, Internet of Things, and Artificial Intelligence.
+I am a second-year Ph.D. student at the [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/), advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/). I obtained my Master's degree from Tsinghua University and my Bachelor's degree from Central South University. My research interests include on-device LLM and Internet of Things (IoT).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-Publications
+Selected Publications
 ======
+* **Is Your NPU Ready for LLMs? Dissecting the Hidden Efficiency Bottlenecks in Mobile LLM Inference**  
+    **Guanyu Cai**, Ruiming Tian, Lang Yang, Zhouhong Ren, Jinliang Yuan, Lingkun Li, Jiliang Wang  
+    *ACM SIGMETRICS 2027* [[PDF](https://arxiv.org/pdf/2607.05475v2)]
 * **Locating Your Smart Devices with a Single Speaker**  
     **Guanyu Cai**, Jiliang Wang   
     *ACM SenSys 2024* [[PDF](/files/SenSys24_LEAD.pdf)]
@@ -23,6 +26,7 @@ Publications
 
 Honors and Awards
 ======
+* 2025.06 Outstanding Graduate, Tsinghua University, 清华大学优秀毕业生  
 * 2024.12 National Scholarship, Ministry of Education, 研究生国家奖学金  
 * 2022.06 Outstanding Undergraduate, Hunan Provincial Department of Education, 湖南省优秀毕业生  
 * 2022.06 Outstanding Undergraduate, Central South University, 中南大学优秀毕业生  
@@ -31,10 +35,11 @@ Honors and Awards
 * 2019.12 National Scholarship, Ministry of Education, 国家奖学金
 
 
-Educations
+Education
 ======
-* 2022.09 - present, School of Software, Tsinghua University
-* 2018.09 - 2022.06, School of Computer Science and Engineering, Central South University
+* 2025.09 - present, Ph.D., School of Software, Tsinghua University
+* 2022.09 - 2025.06, Master's degree, School of Software, Tsinghua University
+* 2018.09 - 2022.06, Bachelor's degree, School of Computer Science and Engineering, Central South University
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
